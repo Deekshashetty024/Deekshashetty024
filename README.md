@@ -1,15 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on Front-end mobile application<br>🌱 I’m currently learning backend web development<br>💬 Ask me about anything related to React-Native
+## Hi, I'm Deeksha Shetty 👋
 
+Detail-oriented QA Test Engineer with 3+ years of experience in manual and automation testing for web and mobile applications across diverse domains. Passionate about delivering high-quality software through effective test strategies and robust automation frameworks.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deekshaashetty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeksha-shetty-935072211/) 
+**Key Skills:**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deekshashetty024&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deekshashetty024&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshashetty024&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+* **Testing:** Functional Testing, Regression Testing, API Testing, Performance Testing, Security Testing, Usability Testing
+* **Automation:** Selenium, Appium, Rest Assured, TestNG
+* **Tools:** Apache JMeter, BlazeMeter, Postman, BrowserStack, Jira, Xray
+* **Languages:** Java, JavaScript
+* **Other:** Test Planning & Strategy, Defect Management (JIRA), Agile & Scrum
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Experience:**
+
+* **QA Test Engineer** | My NEO Group & Sheikh Al Maktoum NEO Technologies (02/2024 - Present)
+    * Focused on testing flight booking, airline reservation, and fintech platforms.
+    * Proficient in API testing with Postman and automation with Selenium and Appium.
+    * Experience with blockchain testing and cloud-based testing platforms.
+* **Software Test Engineer** | KPMG India LLP (08/2022 - 02/2024)
+    * Tested retail eCommerce applications, including Shopify integrations.
+    * Developed and executed manual and automated tests for web and mobile apps.
+    * Enhanced product stability through proactive defect detection.
+
+**Projects:**
+
+* **NEO PASS:** Web and mobile app testing for a luxury travel platform.
+* **NEO ONE:** Fintech platform testing for international transactions and blockchain payments.
+* **Inspire:** Apple reseller web & mobile application testing.
+
+**Connect with me:**
+
+* LinkedIn: [https://www.linkedin.com/in/deeksha-shetty-935072211](https://www.linkedin.com/in/deeksha-shetty-935072211)
